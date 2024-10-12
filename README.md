@@ -30,7 +30,7 @@ and perceptions regarding the product or service offered.
 - Expand my knowledge in **Deep Learning** and **Reinforcement Learning**.
 
 ### 📫 How to reach me:
-- **Email**: umerkhan@example.com (replace with your email)
+- **Email**: umerkhan0207@gmail.com
 - **LinkedIn**: [[linkedin.com/in/umerkhan](https://www.linkedin.com/in/umerkhan-golandaz-36186529a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgr1UwFyVR12m%2BuejrOkeZw%3D%3D)](
 - **GitHub**: [github.com/UmerkhanGolandaz](#)
 
